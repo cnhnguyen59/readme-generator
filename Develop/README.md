@@ -27,6 +27,11 @@
   ```bash 
   npm start
   ```
+  ![answers](../Assets/prompt_answers.png)
+
+  ![video](../Assets/readme_generator.gif)
+  
+  Video Link: https://watch.screencastify.com/v/lBXZgWDPf66y3EOJXxZJ
   
   <a name="test"></a>
   ## Test
